@@ -1,28 +1,27 @@
 # 👩🏻‍💻 Sara Santos
 
-**`Estudante na área de Tecnologias de Informação`**
-
+Hello there! I'm a **Full Stack Web Developer** and an **IT Undergraduate Student** at the **Faculty of Sciences of the University of Lisbon**. I am passionate about building functional, scalable, and user-friendly web applications. I'm constantly learning new technologies and improving my coding skills.
 
 <p align="left">
     <a href="https://github.com/sarasantos2005?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/sarasantos2005?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Total of favorites" 
+            title="Total of favorites GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/sarasantos2005?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Favorites"
         />
     </a>
     <a href="https://github.com/sarasantos2005?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Siga-me no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/sarasantos2005?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Followers" 
+            title="Follow me on GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/sarasantos2005?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
@@ -74,6 +73,22 @@
 />
 <img 
     align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
     alt="JQuery" 
     title="JQuery"
     width="30px" 
@@ -108,7 +123,7 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
@@ -123,7 +138,21 @@
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-nine-zeta-84.vercel.app/api/top-langs/?username=sarasantos2005&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&count_private=true&include_all_commits=true" 
+      src="https://github-readme-stats-nine-zeta-84.vercel.app/api/top-langs/?username=sarasantos2005&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9&count_private=true&include_all_commits=true" 
   />
 
 </p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+---
+
+### 📝 Credits
+This README layout and its features were inspired by a tutorial from **Larissa Kich**. 🚀
