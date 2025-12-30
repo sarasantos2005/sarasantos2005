@@ -116,14 +116,14 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=sarasantos2005&show_icons=true&theme=radical" 
+    src="https://github-readme-sarasantos2005.vercel.app/api?username=sarasantos2005&show_icons=true&theme=radical" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api?username=sarasantos2005&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-sarasantos2005.vercel.app/api?username=sarasantos2005&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
