@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Sara Santos
 
-Hello there! I'm a **Full Stack Web Developer** and an **IT Undergraduate Student** at the **Faculty of Sciences of the University of Lisbon**. I am passionate about building functional, scalable, and user-friendly web applications. I'm constantly learning new technologies and improving my coding skills.
+Hello there! I'm a **Full Stack Web Developer** on the making and an **IT Undergraduate Student** at the **Faculty of Sciences of the University of Lisbon**. I am passionate about building functional, scalable, and user-friendly web applications. I'm constantly learning new technologies and improving my coding skills.
 
 <p align="left">
     <a href="https://github.com/sarasantos2005?tab=repositories&sort=stargazers">
